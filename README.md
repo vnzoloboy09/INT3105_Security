@@ -17,7 +17,7 @@
 3. Normal login:
 
 
-![alt text](image-3.png)
+![alt text](3.png)
 
 ---
 
